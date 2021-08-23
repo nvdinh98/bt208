@@ -1,0 +1,3 @@
+function doSomeThing() {
+    alert("heloo")
+}
